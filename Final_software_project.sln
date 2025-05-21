@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_software_project", "Final_software_project\Final_software_project.csproj", "{0768C8FB-C99C-4A06-B77C-0FBEE8BAAE19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "waterboardinventorySetup02", "waterboardinventorySetup02\waterboardinventorySetup02.vdproj", "{17F32804-3417-FD64-644D-67A3ABAEDA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0768C8FB-C99C-4A06-B77C-0FBEE8BAAE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0768C8FB-C99C-4A06-B77C-0FBEE8BAAE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0768C8FB-C99C-4A06-B77C-0FBEE8BAAE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0768C8FB-C99C-4A06-B77C-0FBEE8BAAE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F32804-3417-FD64-644D-67A3ABAEDA1C}.Debug|Any CPU.ActiveCfg = Debug
+		{17F32804-3417-FD64-644D-67A3ABAEDA1C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBB9F13-E799-452C-8125-2C692F0AE859}
+	EndGlobalSection
+EndGlobal
